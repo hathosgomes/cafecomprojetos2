@@ -124,6 +124,13 @@ main{
 
     }
 
+    #subscribe-header{
+
+        transform: scale(0.7);
+        transform-origin: right;
+
+    }
+
 }
 
 
